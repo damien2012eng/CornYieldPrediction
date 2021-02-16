@@ -11,6 +11,7 @@ statistical model. The Mechanistic model includes three sub-models: basic, model
 
 ### Water sub-model [1]
 ![alt text](https://github.com/damien2012eng/CornYieldPrediction/blob/main/Resources/Images/Water.JPG?raw=true)
+<br><br>
 Performed modelling and simulation on all of three sub-models. The water sub-model comes from Amir et. al's study.
 
 ### Reference
